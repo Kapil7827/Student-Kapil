@@ -1,4 +1,4 @@
 # Student-Kapil
-This is my First Git Repository
+This is my Git Repository
 <br>
-Author - Kapil Gautam
+Author - Kapil
